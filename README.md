@@ -21,6 +21,8 @@ Follow through with the instructions to complete the account setup.
 
 In order to mint a collection you will need to have more than 5 QTZ at your disposal for minting fees. Quartz tokens can be obtained on digital asset exchanges like [MEXC](https://www.mexc.com/). To purchase on an exchange you will need to sign up. Once signed up, you can use the exchange's on-ramp options to purchase QTZ with fiat or with digital assets transferred to the exchange from your other account. After purchase, transfer the QTZ to your newly created Polkadot{.js} address. Take note, some exchanges will not allow you to withdraw your digital assets immediately after creating an account but only after a 12-24 hour period. Once that period expires withdrawal becomes available. If you already have an account, this does not affect you.
 
+The amount of Quartz you will need for creating a collection depends on the number of NFTs in the collection. You will need 2 QTZ for creating a collection plus 0.1 QTZ for every NFT added to it. 
+
 You will need to copy the destination address for your Quartz tokens and paste it into the destination field in the withdrawal section on the exchange, but before you do check if the address format is set to 'Allow use on any chain'.
 
 ![](Images/step3-1.png)
@@ -58,13 +60,10 @@ This will open a page where you can set the name, description and the symbol tha
 
 ![](Images/Step5-2.png)
 
-You will need to authorize this transaction with your wallet. The price for collection creation was 100 QTZ during the test phase of the network but shuold be around 2 QTZ when it enters the public phase.
+You will need to authorize this transaction with your wallet. The price for collection creation is 2 QTZ.
 
 ![](Images/Step5-3.png)
 
-You will be informed of a transaction being processed and this might take a moment. Upon completion, you should see a notification in the top right corner of the page informing you of the transaction status.
-
-![](Images/Step5-4.png)
 
 Next, you will be presented with a page where you can set the cover image for the collection. Click on the file upload icon in the circle and provide a cover image. This step is optional, but you will be asked to confirm that you do not wish to create one.
 
