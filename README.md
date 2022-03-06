@@ -1,6 +1,6 @@
-# Step 1 - Polkdot{.js} Extension Install
+# Step 1 - Polkadot{.js} Extension Install
 
-If you haven't done so already, set up the Polakdot{.js} wallet extension. This is the recommended way to manage and access your on-line wallet. Visit <https://polkadot.js.org/extension/> and click on the “Download for Chrome” button. Chrome browser will guide you through the rest of the process.
+If you haven't done so already, set up the Polkadot{.js} wallet extension. This is the recommended way to manage and access your on-line wallet. Visit <https://polkadot.js.org/extension/> and click on the “Download for Chrome” button. Chrome browser will guide you through the rest of the process.
 
 ![Polkadot extension page](Images/step1-1.png)
 
@@ -32,7 +32,7 @@ Copy the address by either clicking on the colorful icon image or the copy icon.
 
 ![Copy address](Images/Step3-2.png)
 
-Transfer your QTZ from the exchange to your Polakdot{.js} wallet providing the copied address as the recipient of withdrawal.
+Transfer your QTZ from the exchange to your Polkadot{.js} wallet providing the copied address as the recipient of withdrawal.
 
 ![QTZ transfer](Images/Step3-3.png)
 
@@ -42,7 +42,7 @@ Check your transaction status:
 
 And verify your Polakdot{.js} wallet for QTZ received:
 
-![Check funds in polkadot{js} wallet](Images/Step3-5.png)
+![Check funds in your Polkadot{.js} wallet](Images/Step3-5.png)
 
 # Step 4 - Prepare Your NFT images
 
@@ -69,11 +69,11 @@ Next, you will be presented with a page where you can set the cover image for th
 
 ![Cover image](Images/Step5-5.png)
 
-Upon confirming you will again be asked to authorize and sign the transaction. On the page that follows you can set the collection attributes (traits). You add the trait by clicking on 'Add Field' and declaring the trait characteristics.
+Upon confirming, you will again be asked to authorize and sign the transaction. On the page that follows you can set the collection attributes (traits). You add the trait by clicking on 'Add Field' and declaring the trait characteristics.
 
 ![Token attributes page](Images/Step5-6.png)
 
-You will once more be asked to authorize the transaction and, after a confirmation message, be presented with "My collections" mangement page.
+You will once more be asked to authorize the transaction and, after a confirmation message, be presented with "My collections" management page.
 
 ![My collections page](Images/Step5-7.png)
 
