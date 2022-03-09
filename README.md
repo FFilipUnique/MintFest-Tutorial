@@ -91,4 +91,11 @@ Clicking on any of the tokens will open the corresponding token page
 
 ![Token details page](Images/Step5-10.png)
 
+
+# Step 6 - Explore The Blockchain
+
+As a final step, head over to the [Unique blockchain explorer at https://uniquescan.io/](https://uniquescan.io/) to do a search of the blockchain for our freashly minted collection. This will confirm that as a result of the minting our NFT collection has in fact become part of the blockchain. On the page you can use the search box to search the blockchain by a collection name (full or partial), an extrinsic, an NFT or an account. In our example a search for it is performed by a partial collection name. The result is a list of NFTs and collections recorded in the blockchain that correspond to the search terms.
+
+![Block explorer serach](Images/Steps6-1.png)
+
 You have thus successfully created a new NFT collection in the Quartz parachain.
